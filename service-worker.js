@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e2b4b4a6ea2d6dec12cbe7836b3d7f32.js"
+  "/GitHubPage/precache-manifest.518db8c1202ee2ea4c5785b2b62baa80.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "web-interface-iherb"});
